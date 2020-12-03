@@ -1,0 +1,23 @@
+.not-found{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-gradient-purple{
+    background: linear-gradient(87.54deg, #9867F0 -6.8%, #ED4E50 84.14%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-gradient-purple2{
+    background: linear-gradient(87.54deg, #c09dff -6.8%, #fbb7b8 84.14%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.gradient{
+    background: linear-gradient(269.16deg, #FFE580 -15.83%, #FF7571 -4.97%, #FF7270 15.69%, #EA5DAD 32.43%, #C2A0FD 50.09%, #9867F0 67.47%, #3BF0E4 84.13%, #33CE43 105.13%, #B2F4B6 123.24%);
+}
